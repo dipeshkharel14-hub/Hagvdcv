@@ -90,8 +90,7 @@ self.addEventListener('fetch', (event) => {
       // If BOTH fail (e.g., trying to load a page offline that wasn't cached), 
       // you can provide a custom offline.html fallback here if you wish.
       console.log('[Service Worker] Fetch failed, resource unavailable.');
-    })
+  (h1)login info >login info< (/h1)
+                (h2)intro >intro<(/h2)  })
   );
 });
-
-
